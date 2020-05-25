@@ -2,7 +2,7 @@
 
 original Made by: http://www.buildinamsterdam.com/
 
-ps: you have to Comment out the following code to make animation to go smoothly in draggabilly.js in node_modules
+ps: you have to Comment out the following code to make animation go smoothly in draggabilly.js,  you can find it in ~node_modules/draggabilly, Enjoy, star me if useful :)
 ```
 proto.animate = function() {
   // only render and animate if dragging
